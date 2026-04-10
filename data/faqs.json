@@ -1,0 +1,202 @@
+[
+    {
+        "category": "Basics",
+        "question": "What is HIV?",
+        "answer": "HIV (Human Immunodeficiency Virus) is a virus that attacks the body's immune system, specifically the CD4 cells (T cells), which help the immune system fight off infections."
+    },
+    {
+        "category": "Basics",
+        "question": "What is AIDS?",
+        "answer": "AIDS (Acquired Immunodeficiency Syndrome) is the late stage of HIV infection that occurs when the body's immune system is badly damaged because of the virus."
+    },
+    {
+        "category": "Transmission",
+        "question": "How is HIV transmitted?",
+        "answer": "HIV is transmitted through contact with certain body fluids from a person with HIV: blood, semen, vaginal fluids, rectal fluids, and breast milk."
+    },
+    {
+        "category": "Transmission",
+        "question": "Can I get HIV from hugging or shaking hands?",
+        "answer": "No. HIV is not transmitted by air or water, insects (including mosquitoes), saliva, tears, sweat, or casual contact like shaking hands, hugging, or sharing dishes."
+    },
+    {
+        "category": "Prevention",
+        "question": "How can I prevent HIV infection?",
+        "answer": "You can prevent HIV by using condoms correctly during sex, using PrEP (Pre-Exposure Prophylaxis) if you are at high risk, ensuring medical equipment is sterile, and not sharing needles."
+    },
+    {
+        "category": "Testing",
+        "question": "When should I get tested for HIV?",
+        "answer": "Everyone should be tested at least once. People at higher risk should be tested more frequently (e.g., every 3-6 months). If you think you've been exposed, get tested immediately."
+    },
+    {
+        "category": "Testing",
+        "question": "Is HIV testing confidential in Pakistan?",
+        "answer": "Yes. HIV testing at government centers (NACP/PACP) and recognized NGOs is strictly confidential and often anonymous to protect the patient's privacy."
+    },
+    {
+        "category": "Treatment",
+        "question": "Is there a cure for HIV?",
+        "answer": "Currently, there is no cure for HIV, but with proper medical care (Antiretroviral Therapy or ART), HIV can be controlled, and people with HIV can live long, healthy lives."
+    },
+    {
+        "category": "Treatment",
+        "question": "What is ART?",
+        "answer": "Antiretroviral Therapy (ART) is the use of HIV medicines to treat HIV infection. It involves taking a combination of medicines every day."
+    },
+    {
+        "category": "Living with HIV",
+        "question": "Can a person with HIV have children?",
+        "answer": "Yes. With modern ART, the risk of transmitting HIV to a partner or a baby can be reduced to almost zero (U=U: Undetectable = Untransmittable)."
+    },
+    {
+        "category": "Stigma & Rights",
+        "question": "Are there laws in Pakistan to protect people with HIV?",
+        "answer": "Yes. The HIV and AIDS Prevention and Treatment Act (in various provinces) protects the rights of people living with HIV, including the right to employment, education, and healthcare without discrimination."
+    },
+    {
+        "category": "Basics",
+        "question": "Does everyone with HIV have symptoms?",
+        "answer": "No. Many people have no symptoms for years. Some may experience flu-like symptoms 2-4 weeks after infection (Acute HIV Infection)."
+    },
+    {
+        "category": "Transmission",
+        "question": "Can mosquitoes transmit HIV?",
+        "answer": "No. Scientific studies have shown that HIV is not transmitted by mosquitoes or any other insects."
+    },
+    {
+        "category": "Prevention",
+        "question": "What is PrEP?",
+        "answer": "PrEP (Pre-Exposure Prophylaxis) is a medicine taken by people at risk for HIV to prevent getting HIV from sex or injection drug use."
+    },
+    {
+        "category": "Prevention",
+        "question": "What is PEP?",
+        "answer": "PEP (Post-Exposure Prophylaxis) is medicine taken to prevent HIV after a possible exposure. It must be started within 72 hours of exposure."
+    },
+    {
+        "category": "Testing",
+        "question": "What is the 'window period'?",
+        "answer": "The window period is the time between HIV infection and when a test can accurately detect the virus. For most tests, this is 23 to 90 days."
+    },
+    {
+        "category": "Testing",
+        "question": "Where can I get a free HIV test in Pakistan?",
+        "answer": "Free testing is available at National and Provincial AIDS Control Program centers, most large government hospitals (JPMC, Mayo, PIMS), and specialized NGOs."
+    },
+    {
+        "category": "Treatment",
+        "question": "What happens if I stop taking my HIV medicine?",
+        "answer": "Stopping ART allows the virus to multiply quickly, which damages the immune system and can lead to drug resistance, making future treatment more difficult."
+    },
+    {
+        "category": "Treatment",
+        "question": "Are HIV medicines free in Pakistan?",
+        "answer": "Yes. ART is provided free of charge by the government of Pakistan through specialized ART clinics across the country."
+    },
+    {
+        "category": "Living with HIV",
+        "question": "What does 'Undetectable' mean?",
+        "answer": "It means the amount of HIV in the blood is so low that a standard lab test cannot detect it. This is a goal of ART."
+    },
+    {
+        "category": "Living with HIV",
+        "question": "What is U=U?",
+        "answer": "U=U stands for Undetectable = Untransmittable. It means that people who take ART daily as prescribed and achieve and maintain an undetectable viral load have effectively no risk of sexually transmitting the virus to an HIV-negative partner."
+    },
+    {
+        "category": "Pregnancy",
+        "question": "How can a pregnant woman with HIV prevent passing it to her baby?",
+        "answer": "By taking ART during pregnancy and childbirth, and given to the baby for 4-6 weeks after birth. The risk can be reduced to less than 1%."
+    },
+    {
+        "category": "Stigma & Rights",
+        "question": "Can I be fired from my job for having HIV in Pakistan?",
+        "answer": "No. Under the provincial AIDS acts, discrimination in employment based on HIV status is illegal."
+    },
+    {
+        "category": "Stigma & Rights",
+        "question": "Is my HIV status shared with my family or employer by the clinic?",
+        "answer": "No. Healthcare providers are legally bound to maintain strict confidentiality regarding a patient's HIV status."
+    },
+    {
+        "category": "Basics",
+        "question": "What is the difference between HIV-1 and HIV-2?",
+        "answer": "They are different strains of the virus. HIV-1 is the most common worldwide. HIV-2 is less common, less infectious, and progresses more slowly."
+    },
+    {
+        "category": "Basics",
+        "question": "Can I have HIV and not know it?",
+        "answer": "Yes. Many people living with HIV have no symptoms and feel perfectly healthy for many years while the virus slowly damages their immune system."
+    },
+    {
+        "category": "Transmission",
+        "question": "Can I get HIV from oral sex?",
+        "answer": "The risk is extremely low, but not zero. Factors like mouth sores or bleeding gums can increase the risk."
+    },
+    {
+        "category": "Transmission",
+        "question": "Can HIV be transmitted through needles used for tattoos or piercings?",
+        "answer": "Yes, if the equipment is not sterilized between clients. Always ensure your tattoo or piercing artist uses new, sterile needles."
+    },
+    {
+        "category": "Prevention",
+        "question": "Do condoms really work?",
+        "answer": "Yes. When used consistently and correctly, latex condoms are highly effective in preventing the sexual transmission of HIV."
+    },
+    {
+        "category": "Prevention",
+        "question": "Are some lubricants better than others for condom use?",
+        "answer": "Yes. Use water-based or silicone-based lubricants. Oil-based lubricants (like Vaseline or lotion) can weaken latex and cause condoms to break."
+    },
+    {
+        "category": "Testing",
+        "question": "What is a 'Rapid HIV Test'?",
+        "answer": "It is a test that provides results in about 20 minutes, usually using a finger-prick blood sample or oral fluid."
+    },
+    {
+        "category": "Testing",
+        "question": "What happens if my HIV test is positive?",
+        "answer": "You will receive a confirmatory test. If confirmed, you will be linked to care, given counseling, and started on ART to manage the virus."
+    },
+    {
+        "category": "Treatment",
+        "question": "What are the side effects of ART?",
+        "answer": "Common side effects can include nausea, fatigue, and difficulty sleeping. Most side effects are manageable and improve over time as the body adjusts."
+    },
+    {
+        "category": "Treatment",
+        "question": "Do I have to take HIV medicine for the rest of my life?",
+        "answer": "Currently, yes. Since ART does not cure HIV, you must continue taking it to keep the virus suppressed."
+    },
+    {
+        "category": "Living with HIV",
+        "question": "Should I tell my partner I have HIV?",
+        "answer": "Disclosure is important for many reasons, including the health of your partner. Counselors at ART clinics can help you with strategies for safe disclosure."
+    },
+    {
+        "category": "Living with HIV",
+        "question": "Can I travel internationally if I have HIV?",
+        "answer": "Most countries do not have travel restrictions for people with HIV, although some may have specific requirements for long-term residency or work visas."
+    },
+    {
+        "category": "Pregnancy",
+        "question": "Can a woman with HIV breastfeed her baby?",
+        "answer": "In Pakistan, the recommendation is usually to use formula if it is safe and affordable. If breastfeeding is necessary, the mother MUST be on ART with an undetectable viral load."
+    },
+    {
+        "category": "Advocacy",
+        "question": "How can I support someone with HIV?",
+        "answer": "Listen without judgment, offer emotional support, help them stay consistent with their appointments and medicine, and educate yourself to reduce stigma."
+    },
+    {
+        "category": "Resources",
+        "question": "What is the NACP helpline number?",
+        "answer": "The National AIDS Control Program helpline is 0800-22209. It is free to call."
+    },
+    {
+        "category": "Resources",
+        "question": "Are there support groups for people with HIV in Pakistan?",
+        "answer": "Yes. Many NGOs like APLHIV (Association of People Living with HIV) run support groups and provide community-based assistance."
+    }
+]
