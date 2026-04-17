@@ -8,7 +8,7 @@
 
 **[YouTube](https://www.youtube.com/@AmbreenAbdulRaheem-y8m)**
 
-![image](.\assets\banner.png)
+![image](./assets/banner.png)
 
 ## PAKISTAN-HIVSOLUTIONS
 
